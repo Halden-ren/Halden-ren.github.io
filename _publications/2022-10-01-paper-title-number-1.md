@@ -1,7 +1,7 @@
 ---
 title: "Graph Learning for Fake Review Detection"
 collection: publications
-permalink: 'http://Halden-ren.github.io/files/paper1.pdf'
+permalink: '/files/paper1.pdf'
 excerpt: ''
 date: 2022-10-01
 venue: 'Frontiers in Artificial Intelligence'
