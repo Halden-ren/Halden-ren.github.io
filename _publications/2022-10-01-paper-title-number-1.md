@@ -2,7 +2,7 @@
 title: "Graph Learning for Fake Review Detection"
 collection: publications
 permalink: /publication/2022-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+<!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 date: 2022-10-01
 venue: 'Frontiers in Artificial Intelligence'
 paperurl: 'http://Halden-ren.github.io/files/paper1.pdf'
