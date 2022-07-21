@@ -11,31 +11,57 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Federation University Australia, Institute of Innovation, Science and Sustainability	
+  * PhD in Information Technology	
+  * Ballarat, Australia
+  * Jul.2022 – Pre.
+* Dalian University of Technology, School of Software (ARWU 2020: 201-300)	
+  * MSc in Software Engineering (by Research)
+  * Average Score: 84.16/100	
+  * Dalian, China
+  * Sep. 2018 – Jun. 2020
+* Tunghai University, School of Information Technology	
+  * Exchange Student in Software Engineering	
+  * Taichung, Taiwan
+  * Feb. 2016 – Jul. 2016
+* Huaqiao University, School of Computer Science and Technology	
+  * BSc in Software Engineering 
+  * Average Score: 80/100	
+  * Xiamen, China
+  * Sep. 2014 – Jul. 2018
 
-Work experience
+
+Employment 
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Fellow	
+  * Dalian University of Technology, School of Software	
+  * Dalian, China
+  * Jul. 2020 – Jul.2021
   
-Skills
+Honors 
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* The Student Travel Grant, ACM/IEEE JCDL 2022	Jun. 2022
+* The Vannevar Bush Best Paper Honorable Mention, ACM/IEEE JCDL 2020 	Aug. 2020
+* Outstanding Graduate of Dalian City, Dalian University of Technology 	Jun. 2020
+* Outstanding Contribution Award, The Alpha Lab, Dalian University of Technology	Jan. 2020
+* Outstanding Student Scholarship, Dalian University of Technology	2019-2020
+* Outstanding Postgraduate of the University, Dalian University of Technology	Apr. 2019
+* Outstanding Contribution Award, The Alpha Lab, Dalian University of Technology	Jan. 2019
+* Outstanding Graduate of the University, Huaqiao University (top 5%)	Jul. 2018
+* Outstanding Student of the University, Huaqiao University (top 5%)	Dec. 2016
+* Outstanding Student Scholarship, Huaqiao University, multiple times	2015-2017
 
+PROFESSIONAL SERVICES
+======
+* Invited Journal Reviewer
+  *	ACM Transactions on Knowledge Discovery from Data
+  *	IEEE Transactions on Industrial Informatics
+  *	IEEE Access 
+  *	Artificial Intelligence Review
+* Program Committee Member
+  *	IAAA Workshop of IEEE ICDM 2021
+
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -53,7 +79,5 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+   -->
+
