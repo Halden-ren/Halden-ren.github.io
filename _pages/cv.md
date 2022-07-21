@@ -51,7 +51,7 @@ Honors
 * Outstanding Student of the University, Huaqiao University (top 5%)	Dec. 2016
 * Outstanding Student Scholarship, Huaqiao University, multiple times	2015-2017
 
-PROFESSIONAL SERVICES
+Professional Services
 ======
 * Invited Journal Reviewer
   *	ACM Transactions on Knowledge Discovery from Data
