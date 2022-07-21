@@ -1,7 +1,7 @@
 ---
 title: "On the Correlation between Research Complexity and Academic Competitiveness"
 collection: publications
-permalink: /publication/15-2020-On the Correlation between Research Complexity and Academic Competitiveness
+permalink: '/files/paper1.pdf'
 excerpt: ''
 date: 2021-06-01
 venue: 'The 22nd International Conference on Asia-Pacific Digital Libraries (ICADL)'
