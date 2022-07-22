@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Journals"
+title: "Journal"
 permalink: /publications/
 author_profile: true
 ---
@@ -12,7 +12,17 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.url == "/Journal" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+Conference
+====
+{% for post in site.publications reversed %}
+  {% if post.url == "/Conference" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
 
