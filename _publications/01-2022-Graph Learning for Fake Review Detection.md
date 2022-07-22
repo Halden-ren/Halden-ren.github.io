@@ -1,7 +1,7 @@
 ---
 title: "Graph Learning for Fake Review Detection"
 collection: publications
-permalink: "/files/1-2022-Graph Learning for Fake Review Detection.pdf"
+permalink: "/files/1.pdf"
 excerpt: ''
 date: 2022-06-01
 venue: 'Frontiers in Artificial Intelligence'
