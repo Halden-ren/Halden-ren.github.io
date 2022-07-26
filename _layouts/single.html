@@ -48,10 +48,11 @@ layout: default
         {% elsif page.citation %}
           <p>Recommended citation: {{ page.citation }} </p>
         {% endif %} -->
-        pdfViewer: {{ page.paperurl }}
-        <embed src="{{ page.paperurl }}" type="application/pdf" width="600" height="900">
+       
     
         </header>
+      pdfViewer: {{ page.paperurl }}
+      <embed src="{{ page.paperurl }}" type="application/pdf" width="600" height="900">
       {% endunless %}
 
       <section class="page__content" itemprop="text">
