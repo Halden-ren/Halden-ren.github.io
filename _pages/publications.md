@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% if post.url == "/Journal" %}
+  {% if post.excerpt == "Journal" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
@@ -20,7 +20,7 @@ author_profile: true
 Conference
 ====
 {% for post in site.publications reversed %}
-  {% if post.url == "/Conference" %}
+  {% if post.excerpt == "Conference" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
