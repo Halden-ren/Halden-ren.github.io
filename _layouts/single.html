@@ -52,7 +52,8 @@ layout: default
     
         </header>
       pdfViewer: {{ page.paperurl }}
-      <embed src="{{ page.paperurl }}" type="application/pdf" width="600" height="900">
+<!--       <embed src="{{ page.paperurl }}" type="application/pdf" width="600" height="900"> -->
+      <iframe src="{{ page.paperurl }}" frameborder="0" width="100%" height="900"></iframe>
       {% endunless %}
 
       <section class="page__content" itemprop="text">
