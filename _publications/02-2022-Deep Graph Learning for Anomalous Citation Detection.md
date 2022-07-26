@@ -1,8 +1,8 @@
 ---
 title: "Deep Graph Learning for Anomalous Citation Detection"
 collection: publications
-permalink: 'Journal'
-excerpt: ''
+permalink: 'publicaton/02'
+excerpt: 'Journal'
 date: 2022-06-01
 venue: 'IEEE Transactions on Neural Networks and Learning Systems'
 paperurl: 'https://github.com/Halden-ren/Halden-ren.github.io/raw/master/files/2-2022-Deep%20Graph%20Learning%20for%20Anomalous%20Citation%20Detection.pdf'
