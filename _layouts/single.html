@@ -43,17 +43,18 @@ layout: default
         {% endif %}
         
              
-<!--         {% if page.citation and page.paperurl %}
-          <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
+        {% if page.citation and page.paperurl %}
+<!--           <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p> -->
+          <iframe src="{{ page.paperurl }}" frameborder="0" width="100%" height="900"></iframe>
         {% elsif page.citation %}
           <p>Recommended citation: {{ page.citation }} </p>
-        {% endif %} -->
+        {% endif %}
        
     
         </header>
 <!--       pdfViewer: {{ page.paperurl }} -->
 <!--       <embed src="{{ page.paperurl }}" type="application/pdf" width="600" height="900"> -->
-      <iframe src="{{ page.paperurl }}" frameborder="0" width="100%" height="900"></iframe>
+      
       {% endunless %}
 
       <section class="page__content" itemprop="text">
